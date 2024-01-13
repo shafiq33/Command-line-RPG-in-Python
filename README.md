@@ -1,5 +1,5 @@
 # Command-line-RPG-in-Python
-Nexus Warfare is a program that simulates a Role-Playing-Game (RPG) with different characters
+Nexus Warfare is a program that simulates a Role-Playing-Game (RPG) with different characters.
 Defines a Character class with attributes such as name, moves (light, medium, heavy), health, stamina, and dodge chance.
 Includes functions for random number generation (rand_list) and three attack functions (l_attack, m_attack, h_attack).
 Defines move sequences (l_s, m_s, h_s) and functions for dodging and stamina regeneration.
